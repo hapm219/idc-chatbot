@@ -1,0 +1,20 @@
+# requirements.txt cho IDC Chatbot
+
+# Core AI libraries
+numpy==1.25.2
+jax==0.4.20
+jaxlib==0.4.20
+transformers==4.36.2
+sentence-transformers==2.2.2
+tqdm
+
+# LlamaIndex (RAG)
+llama-index==0.10.28
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+
+# Hỗ trợ xử lý file văn bản đầu vào
+docx2txt
+
+# Hugging Face Hub API (dùng để tải model TinyLLaMA)
+huggingface_hub
