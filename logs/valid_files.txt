@@ -1,0 +1,11 @@
+data/rawdata/manuals/eaton-9130-ups-pdm-user-guide-manual-164201798.pdf
+data/rawdata/manuals/NX_Range_General_Installation_Manual.pdf
+data/rawdata/procedures/Cap dau.docx
+data/rawdata/procedures/3.6.2qtdc10-MTQT Triển khai thiết bị cho đơn vị nội bộ tại Datacenter.docx
+data/rawdata/procedures/MTQT Quan ly truy cap trung tam du lieu(da ky so).pdf
+data/rawdata/procedures/1.5.1qtdc11-MTQT quy hoạch rack tại Datacenter.docx
+data/rawdata/procedures/QD-Dam-bao-an-toan-thi-cong-trong-Datacenter.pdf
+data/rawdata/procedures/QD-Dam-bao-an-toan-thi-cong-khi-xay-dung-Datacenter.pdf
+data/rawdata/procedures/Giam sat he thong.pdf
+data/rawdata/procedures/2.0.5qddc10-QD Bao tri bao duong cac thiet bi, he thong trong Datacenter.pdf
+data/rawdata/procedures/3.6.1hddc10-HDCV-Trien-khai-thiet-bi-tai-Data-center_10012023085920.docx
